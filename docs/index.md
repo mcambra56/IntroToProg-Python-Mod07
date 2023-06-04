@@ -74,4 +74,5 @@ Structured error handling allows the code to be run without breaking and trigger
 Note that the directory is first changed to the folder where the script lives. 
 
 For the pickling demo, since the code was run previously in PyCharm, when the file is unpickled the first row in the file that is now displayed is the one previously saved. 
- ![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure10.png "Figure 10")
+
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure10.png "Figure 10")
