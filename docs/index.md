@@ -1,9 +1,10 @@
 # Assignment 7 - Pickling and Standard Error Handling
 
-_Name:_ Megan (Megs) Cambra
-_Date:_ May 3rd, 2023
-_Class:_ IT FDN 110
-_Github:_ [Github Repository](https://github.com/mcambra56/IntroToProg-Python-Mod07)
+__Name:__ Megan (Megs) Cambra
+
+__Date:__ May 3rd, 2023
+__Class:__ IT FDN 110
+__Github:__ [Github Repository](https://github.com/mcambra56/IntroToProg-Python-Mod07)
 
 
 Assignment 07 – Pickling and Structured Error Handling
