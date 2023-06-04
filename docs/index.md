@@ -5,6 +5,7 @@ __Name:__ Megan (Megs) Cambra
 __Date:__ May 3rd, 2023
 
 __Class:__ IT FDN 110
+
 __Github:__ [Github Repository](https://github.com/mcambra56/IntroToProg-Python-Mod07)
 
 
@@ -27,9 +28,15 @@ _**Figure 1.** Pickling and unpickling script using user input data_
 
 As described above, when running the script, the user will first be prompted to input an item and its count before their input is then displayed back to them. Finally, after the file is pickled and unpickled the user will again see the first row of data in the file. This can be seen in Figure 2 (see Appendix B to see the code run in Windows Command Line). If the file doesn’t already exist, python will create the file; however, if it already exists the script will add onto the existing data in the file, in which case the first row of data displayed at the end will not be same row of data the user just entered, as seen in Figure 3. The obscured data file can be seen in Figure 4. 
 
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure2.png "Figure 2")
+
 _**Figure 2.** Running the pickling code with user input_
 
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure3.png "Figure 3")
+
 _**Figure 3.** Rerunning the pickling code with new user input_
+
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure4.png "Figure 4")
 
 _**Figure 4a.** (left) Directory showing file created. Figure 4b. (right) File with obscured content after pickling_
 
