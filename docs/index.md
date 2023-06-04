@@ -47,11 +47,19 @@ In the script seen in Figure 5, standard error handling is demonstrated for non-
 
 Figure 6 shows the results of the user inputting a file that does not exist. The user is informed that file cannot be found and then the built-in python error message is displayed. To test the code to make sure it would run properly for an existing file, Figure 7 shows a simple text file that was created containing one row of data. When the code is rerun after the creation of this test file, and that file name is called up, Figure 8 shows that rather than displaying the common error message the contents of the file are displayed. 
 
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure5.png "Figure 5")
+
 _**Figure 5.** Structured Error Handling script to handle non-existent file with custom message._
+
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure6.png "Figure 6")
 
 _**Figure 6.** Running Structured Error Handling script, where user inputs a non-existent file and a custom error message is displayed._ 
 
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure7.png "Figure 7")
+
 _**Figure 7.** A text file called “Test.txt” is created in the same directory as the script._
+
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure8.png "Figure 8")
 
 _**Figure 8.** Running Structured Error Handling script, where an existing file is input and therefore no error message is returned._
 
@@ -60,8 +68,10 @@ Pickling and structured error handling are two techniques that can enhance pytho
 Structured error handling allows the code to be run without breaking and triggering the built-in python error messages using ‘try and except’ blocks. A piece of code to be tested is put inside the ‘try’ block, and should it encounter an error python will instead look to the custom error handling inside the ‘except’ block on how to proceed. This could include a custom error message, a break in the code or a completely different path. Structured error handling is very useful when debugging code, especially when new code is introduced by other users. 
 
 ### Appendix A. _The entire script_
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure9.png "Figure 9")
 
 ### Appendix B. _Running the code in Windows Command Line_
 Note that the directory is first changed to the folder where the script lives. 
 
 For the pickling demo, since the code was run previously in PyCharm, when the file is unpickled the first row in the file that is now displayed is the one previously saved. 
+![alt text](https://github.com/mcambra56/IntroToProg-Python-Mod07/blob/main/docs/Assignment07_Figure10.png "Figure 10")
