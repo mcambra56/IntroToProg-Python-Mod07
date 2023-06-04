@@ -1,8 +1,11 @@
 # Assignment 7 - Pickling and Standard Error Handling
 
 __Name:__ Megan (Megs) Cambra
+
 __Date:__ May 3rd, 2023
+
 __Class:__ IT FDN 110
+
 __Github:__ [Github Repository](https://github.com/mcambra56/IntroToProg-Python-Mod07)
 
 
